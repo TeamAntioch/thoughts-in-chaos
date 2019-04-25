@@ -27,8 +27,10 @@
 		{
 			"name":"Main Mod",
 			"description":"Main Mod for the Campaign",
-			"destination": "mods/CampaignMod.SC2Mod",
-			"source":"https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip"
+			"destination":"Mods/AntiochRemastered.SC2Mod",
+			"fileEntry":"Antioch Remastered (Updated on July 7, 2018)/Mods/AntiochRemastered.SC2Mod",
+			"source":"https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
+			"sourceFormat": "zip"
 		}
 	],
 	"maps": [
