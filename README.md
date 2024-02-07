@@ -1,5 +1,5 @@
  # ![Logo](https://media-elerium.cursecdn.com/attachments/189/535/ep3logo.png)
- # Antioch Chronicles Episode 3: Thoughts in Chaos
+ # Antioch Chronicles Episode III: Thoughts in Chaos
 
 Team Antioch is proud to release the conclusion of the Antioch Chronicles trilogy. Created in collaboration with Ruben Moreno and Eric Dieter, the creators of the first two episodes, this campaign is the product of three years of development and a team of over twenty people. Come visit us on our new Discord to share your thoughts, bugs, or just chat. https://discord.gg/m4wCpSf
 
